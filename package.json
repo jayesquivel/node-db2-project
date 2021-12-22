@@ -15,8 +15,9 @@
     "supertest": "^6.1.6"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "knex": "^0.95.14",
+    "middleware": "^1.0.0",
     "sqlite3": "^5.0.2"
   },
   "repository": {
